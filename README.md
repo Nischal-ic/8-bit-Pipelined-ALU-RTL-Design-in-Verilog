@@ -1,4 +1,4 @@
-# 8 bit Pipelined ALU RTL Design in Verilog
+# 8 bit ALU RTL Design in Verilog
 
 *The purpose of this project is to design and verify an 8-bit Arithmetic Logic Unit (ALU) using Verilog HDL to perform basic arithmetic and logical operations with status flag generation.*
 
